@@ -32,10 +32,10 @@ It is very straight-forward to set-up a repo to host your Shortcuts!
             "Link to a screenshot showcasing the shortcut 3",
             "Link to a screenshot showcasing the shortcut 4"
         ],
-        "olderVersions": [
+        "olderVersions": {
             "Older version number 1": "Link to download older version 1",
             "Older version number 2": "Link to download older version 2"
-        ]
+        }
     }
 ]
 ```
@@ -62,10 +62,10 @@ An example Shortcut could look like this:
         "screenshots" : [
             "https://avatars.githubusercontent.com/u/81449663?v=4",
         ],
-        "olderVersions": [
+        "olderVersions": {
             "0.9": "https://icloud.com/shortcuts/18394fuirg87456t7f7e8g98",
             "0.8.1": "https://icloud.com/shortcuts/uefjvd8ve7717348heve354556"
-        ]
+        }
     }
 ]
 ```
