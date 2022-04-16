@@ -15,7 +15,7 @@ It is very straight-forward to set-up a repo to host your Shortcuts!
         "author": "The author of the shortcut",
         "version": "The latest version of the shortcut",  
         "description": "Short description of the shortcut",
-        "longDescription": "Long, extended description of the shortcut, you could also implement a changelog here",
+        "longDescription": "Link to the website with the long description of the shortcut",
         "download": "Link to download the shortcut, usually starts with https://www.icloud.com/shortcuts/...",
         "compatibility": [
             "Minimum compatible version of iOS, for example 15.0",
@@ -48,7 +48,7 @@ An example Shortcut could look like this:
         "author": "Nightwind",
         "version": "1.0",  
         "description": "This is a test shortcut",
-        "longDescription": "This is the long description of the shortcut",
+        "longDescription": "https://google.com",
         "download": "https://www.icloud.com/shortcuts/10294857a8481jsw1919358",
         "compatibility": [
             "13.0",
